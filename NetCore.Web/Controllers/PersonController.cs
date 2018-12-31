@@ -18,7 +18,7 @@ namespace NetCore.Web.Controllers
         }
         private void Seed()
         {
-            if (this._service!=null)
+            if (this._service!=null && this._service.People!=null)
             {
                 this._service.People.Add(new Person { FirstName = "abhi", LastName = "chak", Address = "ranchi" });
                 this._service.People.Add(new Person { FirstName = "anu", LastName = "bhatt", Address = "ranchi" }); 
