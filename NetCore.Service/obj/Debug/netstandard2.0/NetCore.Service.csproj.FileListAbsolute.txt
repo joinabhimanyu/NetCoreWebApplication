@@ -1,0 +1,9 @@
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\obj\Debug\netstandard2.0\NetCore.Service.csprojAssemblyReference.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\obj\Debug\netstandard2.0\NetCore.Service.csproj.CoreCompileInputs.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\obj\Debug\netstandard2.0\NetCore.Service.AssemblyInfoInputs.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\obj\Debug\netstandard2.0\NetCore.Service.AssemblyInfo.cs
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\bin\Debug\netstandard2.0\NetCore.Service.deps.json
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\bin\Debug\netstandard2.0\NetCore.Service.dll
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\bin\Debug\netstandard2.0\NetCore.Service.pdb
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\obj\Debug\netstandard2.0\NetCore.Service.dll
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Service\obj\Debug\netstandard2.0\NetCore.Service.pdb

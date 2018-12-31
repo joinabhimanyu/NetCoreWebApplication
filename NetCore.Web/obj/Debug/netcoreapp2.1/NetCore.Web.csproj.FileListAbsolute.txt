@@ -1,0 +1,31 @@
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.deps.json
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.runtimeconfig.json
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.runtimeconfig.dev.json
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.dll
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.pdb
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.csprojAssemblyReference.cache
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.csproj.CoreCompileInputs.cache
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.RazorAssemblyInfo.cache
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.RazorAssemblyInfo.cs
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.AssemblyInfoInputs.cache
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.AssemblyInfo.cs
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.RazorTargetAssemblyInfo.cache
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.dll
+C:\Users\achak\Documents\User Files\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.pdb
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.csprojAssemblyReference.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.csproj.CoreCompileInputs.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.RazorAssemblyInfo.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.RazorAssemblyInfo.cs
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.AssemblyInfoInputs.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.AssemblyInfo.cs
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.dll
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.pdb
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.deps.json
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.runtimeconfig.json
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.runtimeconfig.dev.json
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.dll
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Web.pdb
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Service.dll
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\bin\Debug\netcoreapp2.1\NetCore.Service.pdb
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.RazorTargetAssemblyInfo.cache
+C:\Users\achak\Documents\abhimanyu\Projects\NetCoreWebApplication\NetCore.Web\obj\Debug\netcoreapp2.1\NetCore.Web.csproj.CopyComplete
